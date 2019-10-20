@@ -8,6 +8,6 @@ How to secure a Nodejs RESTful API using JSON web tokens?
 ``` bash
 # Install dependencies
 npm install
-# Serve on localhost:3000
+# Serve on localhost:5000
 npm start
 ```
